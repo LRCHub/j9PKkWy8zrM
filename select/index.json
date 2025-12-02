@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Good Job!",
+  "base_artist": "Rei",
+  "createdAt": "2025-12-02T15:52:40.322640Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Job - He Was A Beautiful Player",
+      "artist": "J.K. Simmons",
+      "has_synced": true,
+      "path": "select/01_Good_Job_-_He_Was_A_Beautiful_Player_J.K._Simmons.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Job (He Was a Beautiful Player)",
+      "artist": "J․ K․ Simmons",
+      "has_synced": true,
+      "path": "select/02_Good_Job_(He_Was_a_Beautiful_Player)_J._K._Simmons.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Job",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/03_Good_Job_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Good Job",
+      "artist": "Stella Jang",
+      "has_synced": true,
+      "path": "select/04_Good_Job_Stella_Jang.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Good Job",
+      "artist": "스텔라장 (Stella Jang)",
+      "has_synced": true,
+      "path": "select/05_Good_Job_스텔라장_(Stella_Jang).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Good job!",
+      "artist": "シェリル・ノーム starring May'n/ランカ・リー=中島愛",
+      "has_synced": true,
+      "path": "select/06_Good_job!_シェリル・ノーム_starring_May'n_ランカ・リー=中島愛.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Good job!",
+      "artist": "シェリル・ノーム starring May'n/ランカ・リー＝中島 愛",
+      "has_synced": true,
+      "path": "select/07_Good_job!_シェリル・ノーム_starring_May'n_ランカ・リー=中島_愛.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good Job, Champ",
+      "artist": "Free Throw",
+      "has_synced": true,
+      "path": "select/08_Good_Job,_Champ_Free_Throw.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Job (He Was A Beautiful Player)",
+      "artist": "J.K. Simmons",
+      "has_synced": true,
+      "path": "select/09_Good_Job_(He_Was_A_Beautiful_Player)_J.K._Simmons.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good Job",
+      "artist": "Sleeper Agent",
+      "has_synced": true,
+      "path": "select/10_Good_Job_Sleeper_Agent.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good Job",
+      "artist": "Alicia",
+      "has_synced": true,
+      "path": "select/11_Good_Job_Alicia.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good Job",
+      "artist": "J. K. Simmons",
+      "has_synced": true,
+      "path": "select/12_Good_Job_J._K._Simmons.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Good Job",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/13_Good_Job_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Good Job",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/14_Good_Job_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "GOOD JOB!",
+      "artist": "MoonFi",
+      "has_synced": true,
+      "path": "select/15_GOOD_JOB!_MoonFi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "good job",
+      "artist": "yonawo",
+      "has_synced": true,
+      "path": "select/16_good_job_yonawo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "เก่งจัง (Good Job)",
+      "artist": "atom chanakan",
+      "has_synced": false,
+      "path": "select/17_เก่งจัง_(Good_Job)_atom_chanakan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Good Job!",
+      "artist": "Rei",
+      "has_synced": false,
+      "path": "select/pl_01_Good_Job!_Rei.txt"
+    }
+  ]
+}
